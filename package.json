@@ -24,7 +24,6 @@
         "data-spreadsheet"
     ],
     "dependencies": {
-        "jsuites": "^4.9.29",
         "@jspreadsheet/formula": "^1.1.0"
     },
     "devDependencies": {
